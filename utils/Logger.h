@@ -44,7 +44,7 @@ private:
     Logger();
     ~Logger();
     Logger(const Logger &) = delete;
-    Logger(const Logger &&) = delete;
+    Logger(Logger &&) = delete;
     const Logger &operator=(const Logger &) = delete;
 
     void rotate();
