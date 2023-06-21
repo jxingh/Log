@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 
-namespace utility {
+namespace utils {
 
 #define debug(format, ...) \
     Logger::get_instance().log(Logger::DEBUG, __FILE__, __LINE__, format, ##__VA_ARGS__)

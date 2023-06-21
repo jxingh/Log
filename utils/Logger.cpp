@@ -5,7 +5,7 @@
 #include <string.h>
 #include <time.h>
 
-using namespace utility;
+using namespace utils;
 
 const char *Logger::s_level[LEVEL_COUNT] = {"DEBUG", "INFO", "WARN", "ERROR", "FATAL"};
 

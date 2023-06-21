@@ -1,5 +1,5 @@
 #include "Logger.h"
-using namespace utility;
+using namespace utils;
 
 int main() {
     // 设置日志存储位置
