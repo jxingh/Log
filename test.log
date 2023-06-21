@@ -1,0 +1,4 @@
+2023-06-21 21:42:54 DEBUG main.cpp:14 hello world
+2023-06-21 21:42:54 DEBUG main.cpp:15 name is Jack, age is 24
+2023-06-21 21:42:54 INFO main.cpp:16 info message
+2023-06-21 21:42:54 WARN main.cpp:17 warn message
